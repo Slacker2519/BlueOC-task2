@@ -22,3 +22,5 @@ function sumOfTopTwoIntegers(array) {
 
   return first + second;
 }
+
+module.exports = { sumOfTopTwoIntegers };
